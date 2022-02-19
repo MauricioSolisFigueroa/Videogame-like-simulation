@@ -1,0 +1,48 @@
+Generacion 0:
+
+Solucion 0: inicio:5; izq:2; der: 1; frente:2; bebe:2; ataca:7; fitness:4
+Solucion 1: inicio:5; izq:1; der: 1; frente:2; bebe:2; ataca:6; fitness:3
+Solucion 2: inicio:5; izq:2; der: 1; frente:2; bebe:2; ataca:2; fitness:0
+Solucion 3: inicio:8; izq:1; der: 1; frente:2; bebe:1; ataca:2; fitness:7
+Solucion 4: inicio:2; izq:1; der: 1; frente:1; bebe:2; ataca:4; fitness:6
+Solucion 5: inicio:6; izq:1; der: 1; frente:1; bebe:1; ataca:1; fitness:5
+Solucion 6: inicio:1; izq:2; der: 1; frente:1; bebe:1; ataca:3; fitness:7
+Solucion 7: inicio:6; izq:1; der: 2; frente:2; bebe:1; ataca:0; fitness:6
+Solucion 8: inicio:5; izq:2; der: 2; frente:2; bebe:1; ataca:5; fitness:2
+
+Generacion 1:
+
+Solucion 0: inicio:5; izq:2; der: 1; frente:2; bebe:1; ataca:5; fitness:2
+Solucion 1: inicio:5; izq:2; der: 2; frente:1; bebe:2; ataca:2; fitness:0
+Solucion 2: inicio:5; izq:1; der: 1; frente:2; bebe:2; ataca:6; fitness:3
+Solucion 3: inicio:5; izq:2; der: 1; frente:2; bebe:2; ataca:2; fitness:0
+Solucion 4: inicio:5; izq:2; der: 1; frente:2; bebe:2; ataca:7; fitness:4
+Solucion 5: inicio:5; izq:2; der: 1; frente:2; bebe:2; ataca:2; fitness:0
+Solucion 6: inicio:5; izq:2; der: 2; frente:2; bebe:1; ataca:6; fitness:3
+Solucion 7: inicio:5; izq:1; der: 1; frente:2; bebe:2; ataca:5; fitness:2
+Solucion 8: inicio:5; izq:2; der: 2; frente:1; bebe:2; ataca:7; fitness:4
+
+Generacion 2:
+
+Solucion 0: inicio:5; izq:2; der: 1; frente:2; bebe:2; ataca:2; fitness:0
+Solucion 1: inicio:5; izq:2; der: 1; frente:2; bebe:2; ataca:2; fitness:0
+Solucion 2: inicio:5; izq:2; der: 1; frente:2; bebe:2; ataca:2; fitness:0
+Solucion 3: inicio:5; izq:2; der: 2; frente:1; bebe:2; ataca:2; fitness:0
+Solucion 4: inicio:5; izq:2; der: 1; frente:2; bebe:1; ataca:5; fitness:2
+Solucion 5: inicio:5; izq:2; der: 1; frente:2; bebe:2; ataca:2; fitness:0
+Solucion 6: inicio:5; izq:2; der: 2; frente:1; bebe:2; ataca:2; fitness:0
+Solucion 7: inicio:5; izq:2; der: 1; frente:2; bebe:2; ataca:2; fitness:0
+Solucion 8: inicio:5; izq:2; der: 1; frente:2; bebe:1; ataca:5; fitness:2
+
+Generacion 3:
+
+Solucion 0: inicio:5; izq:2; der: 1; frente:2; bebe:2; ataca:2; fitness:0
+Solucion 1: inicio:5; izq:2; der: 1; frente:2; bebe:2; ataca:2; fitness:0
+Solucion 2: inicio:5; izq:2; der: 2; frente:1; bebe:2; ataca:2; fitness:0
+Solucion 3: inicio:5; izq:2; der: 1; frente:2; bebe:2; ataca:2; fitness:0
+Solucion 4: inicio:5; izq:2; der: 1; frente:2; bebe:2; ataca:2; fitness:0
+Solucion 5: inicio:5; izq:2; der: 1; frente:2; bebe:2; ataca:2; fitness:0
+Solucion 6: inicio:5; izq:2; der: 1; frente:2; bebe:2; ataca:2; fitness:0
+Solucion 7: inicio:5; izq:2; der: 2; frente:1; bebe:2; ataca:2; fitness:0
+Solucion 8: inicio:5; izq:2; der: 1; frente:2; bebe:2; ataca:2; fitness:0
+
